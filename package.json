@@ -1,0 +1,27 @@
+{
+  "name": "smol",
+  "version": "0.0.1",
+  "description": "A small and lightweight framework for making web components and prototypes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydncomley/smol.git"
+  },
+  "keywords": [
+    "Framework",
+    "Web",
+    "Components",
+    "Small",
+    "Lightweight",
+    "Prototype"
+  ],
+  "author": "Haydn Comley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haydncomley/smol/issues"
+  },
+  "homepage": "https://github.com/haydncomley/smol#readme"
+}
